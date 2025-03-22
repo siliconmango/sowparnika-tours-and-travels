@@ -6,6 +6,13 @@
     box-sizing: border-box;
     font-family: "Libre Franklin", sans-serif;
 }
+a{
+    text-decoration:none!important;
+}
+a:hover{
+    color: #24b9cc!important;;
+
+}
 .bg-clr1{
     background-color: #ffdf2b;
 }
